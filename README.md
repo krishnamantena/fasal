@@ -1,9 +1,14 @@
 # fasal
-here you can see the basic home for application
-if your are a new user select the signup option and enter the details
-      then you will redirect to the login page you can login for here
-else you directly select login you enter your credatial and login into your account 
-then you will redirect to main home page
+<h2>Home</h2>Here you can see the basic home for application
+<h2>signup</h2>if your are a new user select the signup option and enter the details
+![image](https://github.com/krishnamantena/fasal/assets/110173293/5a8df8ff-0d1b-4376-9a98-e38f232de331)
+  then you will redirect to the login page you can login for here
+<h2>login</h2>Else you directly select login you enter your credatial and login into your account 
+![image](https://github.com/krishnamantena/fasal/assets/110173293/a650d622-3d7d-4040-bc9d-72736e39d9f4)
+
+<h2>Main Home</h2>Then you will redirect to main home page
+![Uploading image.png…]()
+
 there you can options on navbar like.. search,playlist,Create-playlist,public-playlists
 <h2>1.search</h2> In search page you can search a movie what ever you want and you can add to your playlist
 ![image](https://github.com/krishnamantena/fasal/assets/110173293/4e366862-7ac4-4d1f-8dfa-572428726586)
