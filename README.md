@@ -7,7 +7,8 @@
 ![image](https://github.com/krishnamantena/fasal/assets/110173293/a650d622-3d7d-4040-bc9d-72736e39d9f4)
 
 <h2>Main Home</h2>Then you will redirect to main home page
-![Uploading image.png…]()
+![image](https://github.com/krishnamantena/fasal/assets/110173293/4955ed1b-8514-4f8f-a5ac-dd89b4ee46bd)
+
 
 there you can options on navbar like.. search,playlist,Create-playlist,public-playlists
 <h2>1.search</h2> In search page you can search a movie what ever you want and you can add to your playlist
